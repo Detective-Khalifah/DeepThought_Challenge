@@ -6,4 +6,6 @@
     <string name="settings">Settings</string>
     <string name="content_description_home">Home Menu Item</string>
     <string name="home">Home</string>
+    <string name="lbl_learning_outcome">Learning Outcome</string>
+    <string name="no_thought_fetched">No thoughts could be fetched — none found!</string>
 </resources>
